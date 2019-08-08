@@ -1,0 +1,21 @@
+{
+    "name": "den11100/yii2-wallet-one",
+    "description": "Component for WalletOne service",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Daniil",
+            "email": "den11100@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "den11100\\walletone\\": ""
+        }
+    }
+}
