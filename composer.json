@@ -1,5 +1,5 @@
 {
-    "name": "den11100/yii2-wallet-one",
+    "name": "den11100/yii2-wallet-one-2019",
     "description": "Component for WalletOne service",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.6.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {

@@ -1,9 +1,9 @@
 Yii2 component for [WalletOne](https://www.walletone.com/)
 ============================
 
-[![Total Downloads](https://poser.pugx.org/den11100/yii2-wallet-one/downloads)](https://packagist.org/packages/den11100/yii2-wallet-one)
-[![Latest Unstable Version](https://poser.pugx.org/den11100/yii2-wallet-one/v/unstable)](https://packagist.org/packages/den11100/yii2-wallet-one)
-[![License](https://poser.pugx.org/den11100/yii2-wallet-one/license)](https://packagist.org/packages/den11100/yii2-wallet-one)
+[![Total Downloads](https://poser.pugx.org/den11100/yii2-wallet-one-2019/downloads)](https://packagist.org/packages/den11100/yii2-wallet-one-2019)
+[![Latest Unstable Version](https://poser.pugx.org/den11100/yii2-wallet-one-2019/v/unstable)](https://packagist.org/packages/den11100/yii2-wallet-one-2019)
+[![License](https://poser.pugx.org/den11100/yii2-wallet-one-2019/license)](https://packagist.org/packages/den11100/yii2-wallet-one-2019)
 
 ## Installation
 
@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require den11100/yii2-wallet-one "@dev"
+$ php composer.phar require den11100/yii2-wallet-one-2019 "@dev"
 ```
 
 or add
 
 ```
-"den11100/yii2-wallet-one": "@dev"
+"den11100/yii2-wallet-one-2019": "@dev"
 ```
 
 to the ```require``` section of your `composer.json` file.
