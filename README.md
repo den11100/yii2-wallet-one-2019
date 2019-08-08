@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require den11100/yii2-wallet-one-2019 "@dev"
+$ php composer.phar require den11100/yii2-wallet-one-2019 "^1.0.0"
 ```
 
 or add
 
 ```
-"den11100/yii2-wallet-one-2019": "@dev"
+"den11100/yii2-wallet-one-2019": "^1.0.0"
 ```
 
 to the ```require``` section of your `composer.json` file.
